@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/npnsap/dummy-select#readme",
   "dependencies": {
+    "@angular/core": "^17.0.6",
     "typescript": "^5.3.3"
   }
 }
